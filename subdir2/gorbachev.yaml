@@ -1,3 +1,4 @@
 docker: haskell:7.10.3
-wants: subdir1
+wants:
+ - subdir1
 
